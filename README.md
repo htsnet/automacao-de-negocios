@@ -3,7 +3,7 @@ Projeto de Automação de Negócios com Inteligência Artificial
 
 Este projeto tem como objetivo a geração de um modelo que permita a automação de decisões de negócios.
 
-Baseia-se em uma tabela histórica de simulações de aplicações, com dados fornecidos pela Bolsa de Valores de São Paulo.
+Baseia-se em uma tabela histórica de simulações de aplicações, com dados fornecidos pela B3 de São Paulo.
 
 As operações são de derivativos de contrato de dólar futuro.
 
@@ -27,7 +27,9 @@ Descrição dos campos:
 - ...
 - Item 77 = classificador número 77
 
-Obs. Todos os classificadores são numéricos e sem valores nulos
+Os campos da operação são dados históricos obtidos diretamento através da B3. Já os classificadores (Item 1 até Item 77, por exemplo) são calculados pelos proprietários do projeto, de acordo com a análise técnica desenvolvida por estes.
+
+Obs. Todos os classificadores são numéricos e sem valores nulos.
 
 A diferença entre os 2 arquivos disponibilizados é na estrutura dos campos. A quantidade de linhas é a mesma. Ambos podem ser utilizados no notebook, bastando apenas trocar o nome para o uoload.
 
