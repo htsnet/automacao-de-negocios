@@ -29,4 +29,6 @@ Descrição dos campos:
 
 Obs. Todos os classificadores são numéricos e sem valores nulos
 
+A diferença entre os 2 arquivos disponibilizados é na estrutura dos campos. A quantidade de linhas é a mesma. Ambos podem ser utilizados no notebook, bastando apenas trocar o nome para o uoload.
+
 A ideia do projeto tem como seu proprietário Farley Souza. A análise do problema e o desenvolvimento do notebook é de Hamilton Tenório da Silva.
