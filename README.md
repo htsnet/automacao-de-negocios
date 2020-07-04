@@ -27,3 +27,5 @@ Item 2 = classificador número 2
 ...
 Item 77 = classificador número 77
 Obs. Todos os classificadores são numéricos e sem valores nulos
+
+A ideia do projeto tem como seu proprietário Farley Souza. A análise do problema e o desenvolvimento do notebook é de Hamilton Tenório da Silva.
