@@ -18,7 +18,7 @@ Descrição dos campos:
 - Psaida = Preço do papel no momento da venda
 - Ganhos = Diferença entre compra e venda, se >= 0
 - Perdas = Diferença entre compra e venda, se < 0
----> Resultado = Resultado da operação (1 = ganho, 2 = perda) <-- campo target
+- Resultado = Resultado da operação (1 = ganho, 2 = perda) <-- target
 - Ganho Trade =
 - K entra =
 - K Saida =
