@@ -1,33 +1,33 @@
 # automacao-de-negocios
 Projeto de Automação de Negócios com Inteligência Artificial
 
-Este projeto tem como objetivo a geração de um modelo que permita a automação de decisões de negócios.
+Este projeto tem como objetivo a geração de um modelo que permita a automação de decisões de negócios no mercado financeiro.
 
-Baseia-se em uma tabela histórica de simulações de aplicações, com dados fornecidos pela B3 de São Paulo.
+Baseia-se em uma tabela histórica de simulações de operações financeiras realizadas com base em dados obtidos da B3 – a bolsa de valores brasileira.
 
-As operações são de derivativos de contrato de dólar futuro.
+As operações financeiras se referem à compra e venda do derivativo dólar futuro (DOL). São também conhecidas como operações de “Day Trade” no mercado futuro.
 
 Descrição dos campos:
 
 - CodOp = Código interno da operação (sem significado)
 - Hora Entrada = Hora da compra
-- Hora Saida = Hora da venda
-- Duração = Intervalo de tempo entre saída e entrada
+- Hora Saída = Hora da venda
+- Duração = Intervalo de tempo entre entrada e saída do trade
 - Data = Data da operação
-- Pentrada = Preço do papel no momento da compra
-- Psaida = Preço do papel no momento da venda
-- Ganhos = Diferença entre compra e venda, se >= 0
-- Perdas = Diferença entre compra e venda, se < 0
+- Pentrada = Preço do ativo no momento da compra
+- Psaida = Preço do ativo no momento da venda
+- Ganhos = Diferença de pontos entre compra e venda, se >= 0
+- Perdas = Diferença de pontos entre compra e venda, se < 0
 - Resultado = Resultado da operação (1 = ganho, 2 = perda) <-- target
 - Ganho Trade =
-- K entra =
-- K Saida =
+- K entra = sumarização da hora de entrada, em minutos, a partir do início do pregão
+- K Saida = sumarização da hora de saida, em minutos, a partir do início do pregão
 - Item 1 = classificador número 1
 - Item 2 = classificador número 2
 - ...
 - Item 77 = classificador número 77
 
-Os campos da operação são dados históricos obtidos diretamento através da B3. Já os classificadores (Item 1 até Item 77, por exemplo) são calculados pelos proprietários do projeto, de acordo com a análise técnica desenvolvida por estes.
+Os campos da tabela que envolvem Data, Hora e Preço são dados históricos obtidos diretamente através da B3. Já os classificadores (Item 1 até Item 77, por exemplo) são calculados pelos proprietários do projeto, de acordo com a análise técnica desenvolvida por estes.
 
 Obs. Todos os classificadores são numéricos e sem valores nulos.
 
