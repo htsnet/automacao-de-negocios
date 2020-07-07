@@ -34,3 +34,11 @@ Obs. Todos os classificadores são numéricos e sem valores nulos.
 A diferença entre os 2 arquivos disponibilizados é na estrutura dos campos. A quantidade de linhas é a mesma. Ambos podem ser utilizados no notebook, bastando apenas trocar o nome para o uoload.
 
 A ideia do projeto tem como seus proprietário Farley Souza e Agnaldo Clozer Pinheiro. A análise do problema e o desenvolvimento do modelo é de Hamilton Tenório da Silva.
+
+________________________________________________________________
+
+Arquivo 1 - Automacao_de_Negocios.ipynb: Geração do modelo
+Arquivo 2 - Automacao_de_Negocios_Uso_Modelo.ipynb: Uso do modelo gerado no arquivo 1 (finalized_model.pkl) para predições de novos dados (novos_dados.csv)
+
+O arquivo novos_dados.csv contém o cabeçalho e os registros com apenas os 77 itens a serem considerados pelo modelo
+
