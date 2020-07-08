@@ -1,0 +1,21 @@
+Tensão! Este é o sentimento que impera nas pessoas que operam no mercado futuro da bolsa de valores, conhecidas como “traders” ou “day traders”. No dia a dia, o pregão eletrônico que apresenta as operações no mercado futuro da B3 se converte num quadro de informações com gráficos, valores pulando na tela e cores vermelha e verde se alternando. Tudo isso refletindo os negócios que ocorrem em milésimos de segundo.
+
+Quem opera tem suas estratégias: análise do mercado antes do pregão, análises do pregão em andamento, entendimento dos "ruídos" do mercado, limites de ganho ou perda de cada operação e/ou do dia, gatilhos com valores para compra ou venda, e muito mais, além de contar com a sorte, é claro.
+
+Mas na prática, a velocidade das transações e o volume de informações a serem analisadas é estonteante. Mesmo um olhar atento de quem conhece deixa escapar algumas oportunidades ou riscos.
+
+As plataformas operacionais que as corretoras disponibilizam são ferramentas indispensáveis para quem opera. Por sua vez, estas plataformas possuem diversos recursos que podem ser configurados para se adaptar aos métodos de cada “trader”, de forma a apresentar uma tela de trabalho numa perspectiva mais pessoal e coerente com cada particular forma de atuação.
+
+Início do pregão do dia, plataforma aberta na tela, e aí invariavelmente as emoções tomam conta de quem opera, ora se sentindo confiante e arriscando mais, ora se sentindo mais contido e perdendo oportunidades.
+
+Embora haja uma enorme quantidade de fatores e a própria aleatoriedade do mercado, usualmente os operadores se utilizam de indicadores oriundos da chamada análise técnica/gráfica para a tomada das suas decisões de compra e venda. Enquanto são poucos, os indicadores podem ser avaliados em frações de segundos para que o “trader” decida o que fazer. Mas e quando os indicadores começam a ser na casa de dezenas? Como um ser humano trata isso? E com qual precisão?
+
+Dois “traders” atuam no mercado futuro do dólar (mais especificamente no mini-dolar, sigla WDO). Como os demais, utilizam uma plataforma que lhes fornece uma enorme quantidade de informações. Para enfrentar esse dia a dia de tensões eles construíram uma planilha eletrônica complexa, que extrai as informações do pregão em tempo real, processa de acordo com seus parâmetros particulares e dá indicações para que as operações sejam realizadas. Mesmo se tratando de um processamento eletrônico de análise e decisão, considerando que a velocidade do mercado é enorme, apenas parte de seus indicadores são avaliados a cada operação. Como sempre, tem dias que há ganho, tem dias que há perdas.
+
+Mas será que é possível melhorar isso? É aí que o uso de Inteligência Artificial pode ajudar. 
+
+Com base no histórico de 1 ano de pregões foi possível realizar um estudo e, através de algoritmos de inteligência artificial, criar um modelo que avalia todos os indicadores que eles têm à sua disposição. E isso de forma imediata, a cada necessidade.
+
+Então, antes de uma operação de compra ou venda, os indicadores são passados ao modelo e ele responde "sim ou não" com base em todo o histórico. Isso cria um processo decisório apenas com a razão, sem a emoção do momento.
+
+É infalível? Claro que não. O mercado financeiro é dinâmico, tem suas regras próprias e depende totalmente de fatores externos. Mas o apoio de um modelo matemático que avaliou o histórico e ganhos e perdas anteriores ajuda a ter decisões mais assertivas, melhorando o número de dias com ganho.
